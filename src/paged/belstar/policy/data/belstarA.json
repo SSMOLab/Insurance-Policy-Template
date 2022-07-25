@@ -1,0 +1,1149 @@
+{
+  "DATASETS": {
+    "CONTROL": {
+      "OPERATOR": "admin",
+      "REQUESTCOM": "86",
+      "OPERATECOM": "86",
+      "TEMPLATE": "Contract.vts",
+      "PRINTER": ""
+    },
+    "DATASET": {
+      "CONTROL": {
+        "TEMPLATE": "Contract.vts",
+        "PRINTER": "",
+        "DISPLAY": ""
+      },
+      "CONVER": {
+        "LCGrpCont_GrpContNo": "8026888888888888",
+        "LCGrpCont_GrpName": "小明",
+        "LCCont_InsuredName": "王旺福",
+        "LCCont_ComName": "百星人壽保險股份有限公司高雄分公司",
+        "LCCont_ComAddress": "806高雄市前鎮區民權二路6號",
+        "LCCont_SignDate": "2019年07月12日",
+        "LCCont_PrintCount": "1"
+      },
+      "term":[
+        {
+          "code":"termA"
+        }
+       ],
+      "Cont": {
+        "Type": "7",
+        "SellType": "74",
+        "personalPolicy": "N",
+        "VIP": "",
+        "LacomFlag": "",
+        "receiptPrintFalg": "Y",
+        "TaxCode": "",
+        "QREndDate": "2019-08-11",
+        "LCCont_BankAgent": "71405501640255718",
+        "LCCont_BankAgentName": "",
+        "LCCont_RenewalAccName": "王旺福",
+        "LCCont_InsuredZipcode": "101111",
+        "LCCont_ContNo": "8026888888888888",
+        "LCCont_PrtNo": "1005970010019718",
+        "LCCont_AppntName": "王旺福",
+        "AppntIDType": "身份證",
+        "LCCont_AppntIDNo": "1100102196402152410",
+        "LCCont_AppntIDValidDate": "2026-03-25",
+        "LCCont_AppntSex": "男",
+        "LCCont_AppntBirthDay": "1964年02月15日",
+        "LCCont_AppntOccupationCode": "5010202",
+        "LCCont_AppntOccupationName": "工程師",
+        "LCCont_AppntMarriage": "已婚",
+        "LCCont_AppntDegree": "碩士",
+        "LCCont_AppntNativeplace": "台灣",
+        "LCCont_AppntRgtaddress": "",
+        "LCCont_AppntGrpname": "高雄軟體科學園區",
+        "LCCont_AppntFixPhone": "0989123456",
+        "LCCont_AppntMobile": "0989123456",
+        "LCCont_AppntHomeAddress": "高雄市前鎮區復興四路10號",
+        "LCCont_AppntFax": "0989123456",
+        "LCCont_AppntPhone": "0989123456",
+        "LCCont_AppntZipcode": "100021",
+        "LCCont_AppntEmail": "abc123@gmail.com",
+        "LCCont_AppntPostaladdress": "高雄市前鎮區復興四路10號",
+        "LCCont_AppntPluralitytype": "無",
+        "LCCont_AppntResidentType": "",
+        "LCCont_AppntReceiveEmail": "",
+        "LCCont_AppntIsPayTax": "",
+        "LCCont_AppntPayTaxType": "",
+        "LCCont_AppntPerTaxRegis": "",
+        "LCCont_AppntUnitTaxregis": "",
+        "LCCont_AppntGroupMedicare": "",
+        "LCCont_AppntMedicareType": "",
+        "LCCont_AppntYearIncome": "10",
+        "LCCont_AppntIncomeSource": "工薪",
+        "LCCont_InsuredYearIncome": "10",
+        "LCCont_InsuredIncomeSource": "工薪",
+        "LCCont_InsuredName": "王旺福",
+        "InsureIDType": "身份證",
+        "LCCont_InsuredIDNo": "1100102196402152410",
+        "LCCont_InsuredIDValidDate": "2026-03-25",
+        "LCCont_InsuredSex": "男",
+        "LCCont_InsuredBirthDay": "1964年02月15日",
+        "LCCont_InsuredOccupationCode": "5010202",
+        "LCCont_InsuredOccupationName": "工程師",
+        "LCCont_InsuredMarriage": "已婚",
+        "LCCont_InsuredDegree": "碩士",
+        "LCCont_InsuredNativeplace": "台灣",
+        "LCCont_InsuredRgtaddress": "",
+        "LCCont_InsuredGrpname": "高雄軟體科學園區",
+        "LCCont_InsuredFixPhone": "0989456789",
+        "LCCont_InsuredMobile": "0989456789",
+        "LCCont_InsuredHomeAddress": "高雄市前鎮區復興四路10號",
+        "LCCont_InsuredEMail": "248132637@gmail.com",
+        "LCCont_InsuredRelationtoappnt": "本人",
+        "LCCont_SocialInsuFlag": "是",
+        "LCCont_InsuredAppAge": "55",
+        "LCCont_InsuredPluralitytype": "無",
+        "RiskName": "百星人壽孝順保惡性腫瘤疾病保險",
+        "InsureCMoney": "壹拾伍萬元整",
+        "CPrem": "伍仟捌佰壹拾捌元整",
+        "LCCont_Prem": "5818",
+        "LCCont_PayMode": "年繳",
+        "LCCont_NewPayMode": "8",
+        "LCCont_BankName": "台灣銀行-復興分行",
+        "LCCont_BankAccNo": "6217232502000000000",
+        "LCCont_PayLocation": "銀行轉賬",
+        "LCCont_RenewalBankName": "台灣銀行-三多分行",
+        "LCCont_RenewalBankAccNo": "6217232502000000000",
+        "LCCont_RNewFlag": "",
+        "PayTerm": "20年",
+        "CValiDate": "2019年07月13日",
+        "InsureTerm": "終身",
+        "LCCont_Remark": "",
+        "LCCont_polRemark": "",
+        "ManageComName": "百星人壽保險股份有限公司高雄分公司高雄本部營銷服務部",
+        "ManageComCode": "80010101",
+        "NeedHospital": "0",
+        "LCCont_SignDate": "2019年07月12日",
+        "LCCont_PolicyType": "",
+        "Remark": "N",
+        "LCCont_PolApplyDate": "2019年07月12日",
+        "LAAgent_AgentCode": "張海鷗",
+        "LAAgent_AgentNBlevel": "",
+        "LAAgent_Name": "71405501640255718",
+        "LAAgent_mobile": "0935135789",
+        "LAAgent_AgentCode1": "",
+        "LAAgent_Name1": "",
+        "LAAgent_AgentNBlevel2": "",
+        "LABranchGroup_Name": "高雄百星人壽保險銷售服務有限公司",
+        "LCCont_AgentCom": "71405501",
+        "LCCont_AgentComName": "高雄百星人壽保險銷售服務有限公司",
+        "ManageComAddress": "",
+        "ServicePhone": "400-610-5058",
+        "AddMoney": "",
+        "CSumMoney": "伍仟捌佰壹拾捌元整",
+        "SumMoney": "5818",
+        "SysDate": "2019年07月12日",
+        "EContpaperType": "52",
+        "PrintReceiptOnly": "0",
+        "IsSelfUWFlag": "0",
+        "LCCont_InsuredOtherInsuranceCoverageYN": "N",
+        "LCCont_IsHealthNotice": "0",
+        "solvencyInfo": "我司最近季度（2019年一季度）的償二代綜合償付能力充足率為207.90%，核心償付能力充足率為185.77%，滿足台灣銀保監會關於償付能力充足率的要求。",
+        "regulatoryRateInfo": "我司最近季度的風險綜合評級（分類監管）結果為B類。",
+        "LCCont_InsuredOtherInsuranceCoverage": "",
+        "LCCont_InsuredHeight": "176",
+        "LCCont_InsuredWeight": "71",
+        "LCCont_AppntHeight": "176",
+        "LCCont_AppntWeight": "71",
+        "RetrospectFlag": "N",
+        "RetrospectContent": "",
+        "SRiskFlag": "N"
+      },
+      "InsuredUWimpart": {
+        "$": {
+          "RowCount": "0",
+          "ColCount": "4"
+        },
+        "HEAD": {
+          "COL1": "序號",
+          "COL2": "問題",
+          "COL3": "回復",
+          "COL4": "疾病名稱"
+        }
+      },
+      "AppntUWimpart": {
+        "$": {
+          "RowCount": "0",
+          "ColCount": "4"
+        },
+        "HEAD": {
+          "COL1": "序號",
+          "COL2": "問題",
+          "COL3": "回復",
+          "COL4": "疾病名稱"
+        }
+      },
+      "ACCOUNT": {
+        "$": {
+          "RowCount": "1",
+          "ColCount": "2"
+        },
+        "HEAD": {
+          "COL1": "賬戶名稱",
+          "COL2": "分配比例"
+        },
+        "ROW": {
+          "COL1": "",
+          "COL2": ""
+        }
+      },
+      "BENEFIT": {
+        "$": {
+          "RowCount": "1",
+          "ColCount": "10"
+        },
+        "HEAD": {
+          "COL1": "受益人",
+          "COL2": "證件號碼",
+          "COL3": "受益順序",
+          "COL4": "受益比例",
+          "COL5": "受益人類別",
+          "COL6": "受益人性別",
+          "COL7": "受益人出生日期",
+          "COL8": "受益人證件名稱",
+          "COL9": "受益人與被保險人關係",
+          "COL10": "被保人客戶號"
+        },
+        "ROW": {
+          "COL1": "如意",
+          "COL2": "1100102196406250747",
+          "COL3": "1",
+          "COL4": "100.00%",
+          "COL5": "1",
+          "COL6": "女",
+          "COL7": "1964-06-25",
+          "COL8": "身份證",
+          "COL9": "夫妻",
+          "COL10": "\n   "
+        }
+      },
+      "RISKALL": {
+        "$": {
+          "RowCount": "1",
+          "ColCount": "17"
+        },
+        "HEAD": {
+          "COL1": "附加險",
+          "COL2": "保險金額/投保份數",
+          "COL3": "保險費（元）",
+          "COL4": "保險期間",
+          "COL5": "繳費期間",
+          "COL6": "險種編碼",
+          "COL7": "險種類型標誌",
+          "COL8": "紅利領取方式",
+          "COL9": "年金領取年齡",
+          "COL10": "年金領取方式",
+          "COL11": "險種每份對應保費",
+          "COL12": "險種每份對應保額",
+          "COL13": "險種投保時年齡",
+          "COL14": "單個險種的繳費頻次",
+          "COL15": "生存保險金領取方式",
+          "COL16": "保障計劃",
+          "COL17": "被保人客戶號"
+        },
+        "ROW": {
+          "COL1": "百星人壽孝順保惡性腫瘤疾病保險",
+          "COL2": "150000.00元",
+          "COL3": "5818",
+          "COL4": "終身",
+          "COL5": "20年",
+          "COL6": "ADDU",
+          "COL7": "1",
+          "COL8": "",
+          "COL9": "\n   ",
+          "COL10": "\n   ",
+          "COL11": "\n   ",
+          "COL12": "\n   ",
+          "COL13": "\n   ",
+          "COL14": "年繳",
+          "COL15": "\n   ",
+          "COL16": "\n   ",
+          "COL17": "\n   "
+        }
+      },
+      "SpecAssump": {
+        "$": {
+          "RowCount": "1",
+          "ColCount": "1"
+        },
+        "HEAD": {
+          "COL1": "特別約定"
+        },
+        "ROW": {
+          "COL1": " "
+        }
+      },
+      "WORTH": {
+        "$": {
+          "RowCount": "51",
+          "ColCount": "8"
+        },
+        "HEAD": {
+          "COL1": "8026000127308888",
+          "COL2": "百星人壽孝順保惡性腫瘤疾病保險",
+          "COL3": "150000.00",
+          "COL4": "20年",
+          "COL5": "ADDU",
+          "COL6": "2",
+          "COL7": "林有福",
+          "COL8": "終身"
+        },
+        "ROW": [
+          {
+            "COL1": "1",
+            "COL2": "570.00",
+            "COL3": "1380.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "2",
+            "COL2": "1935.00",
+            "COL3": "4590.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "3",
+            "COL2": "3315.00",
+            "COL3": "7665.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "4",
+            "COL2": "5355.00",
+            "COL3": "12075.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "5",
+            "COL2": "8355.00",
+            "COL3": "18375.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "6",
+            "COL2": "11520.00",
+            "COL3": "24735.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "7",
+            "COL2": "14850.00",
+            "COL3": "31140.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "8",
+            "COL2": "18360.00",
+            "COL3": "37620.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "9",
+            "COL2": "22065.00",
+            "COL3": "44190.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "10",
+            "COL2": "25965.00",
+            "COL3": "50835.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "11",
+            "COL2": "30075.00",
+            "COL3": "57600.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "12",
+            "COL2": "34440.00",
+            "COL3": "64515.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "13",
+            "COL2": "39030.00",
+            "COL3": "71595.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "14",
+            "COL2": "43830.00",
+            "COL3": "78795.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "15",
+            "COL2": "48855.00",
+            "COL3": "86145.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "16",
+            "COL2": "54150.00",
+            "COL3": "93750.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "17",
+            "COL2": "59715.00",
+            "COL3": "101610.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "18",
+            "COL2": "65565.00",
+            "COL3": "109800.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "19",
+            "COL2": "71775.00",
+            "COL3": "118455.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "20",
+            "COL2": "78375.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "21",
+            "COL2": "79935.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "22",
+            "COL2": "81465.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "23",
+            "COL2": "82935.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "24",
+            "COL2": "84405.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "25",
+            "COL2": "85845.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "26",
+            "COL2": "87270.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "27",
+            "COL2": "88665.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "28",
+            "COL2": "90015.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "29",
+            "COL2": "91350.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "30",
+            "COL2": "92670.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "31",
+            "COL2": "93975.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "32",
+            "COL2": "95265.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "33",
+            "COL2": "96525.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "34",
+            "COL2": "97770.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "35",
+            "COL2": "98970.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "36",
+            "COL2": "100155.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "37",
+            "COL2": "101295.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "38",
+            "COL2": "102405.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "39",
+            "COL2": "103485.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "40",
+            "COL2": "104505.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "41",
+            "COL2": "105480.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "42",
+            "COL2": "106380.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "43",
+            "COL2": "107235.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "44",
+            "COL2": "108030.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "45",
+            "COL2": "108780.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "46",
+            "COL2": "109515.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "47",
+            "COL2": "110265.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "48",
+            "COL2": "111120.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "49",
+            "COL2": "112305.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "50",
+            "COL2": "114480.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          },
+          {
+            "COL1": "51",
+            "COL2": "0.00",
+            "COL3": "0.00",
+            "COL4": "0.0"
+          }
+        ]
+      },
+      "SCALE": {
+        "sign": "識別現金價值表的結束-主險"
+      },
+      "RiskItem": {
+        "$": {
+          "RowCount": "1",
+          "ColCount": "2"
+        },
+        "HEAD": {
+          "COL1": "險種編碼",
+          "COL2": "險種名稱"
+        },
+        "ROW": {
+          "COL1": "belstar-001",
+          "COL2": "百星人壽孝順保惡性腫瘤疾病保險"
+        }
+      },
+      "URL": {
+        "$": {
+          "RowCount": "0",
+          "ColCount": "1"
+        },
+        "HEAD": {
+          "COL1": "影像路徑"
+        }
+      },
+      "KYBURL": {
+        "$": {
+          "RowCount": "1",
+          "ColCount": "1"
+        },
+        "HEAD": {
+          "COL1": "快易保影像路徑"
+        },
+        "ROW": {
+          "COL1": "http://10.8.87.20:7001/xerox/EasyScan/2019/07/12/86140101/WXT_19071206000309_C1.jpg",
+          "COL2": "http://10.8.87.20:7001/xerox/EasyScan/2019/07/12/86140101/WXT_19071206000309_C1.jpg",
+          "COL3": "",
+          "COL4": "http://10.8.87.20:7001/xerox/EasyScan/2019/07/12/86140101/belstar-qr.png",
+          "COL5": "",
+          "COL6": "",
+          "COL7": "",
+          "COL8": "",
+          "COL9": "",
+          "COL10": ""
+        }
+      },
+      "Update": {
+        "Postil": "批注"
+      },
+      "Invoice": {
+        "TempFeeNo": "1018888888880868",
+        "SysDate": "2019年07月12日",
+        "LCCont_AppntName": "林有福",
+        "CMoney": "伍仟捌佰壹拾捌元整",
+        "Money": "5818",
+        "LCCont_ContNo": "8026888888888888",
+        "LAAgent_AgentCode": "",
+        "LAAgent_Name": "71405501640255718",
+        "LAAgent_mobile": "15025143010",
+        "LAAgent_AgentCode1": "",
+        "LAAgent_Name1": "",
+        "LABranchGroup_Name": "高雄百星人壽保險銷售服務有限公司",
+        "LCCont_PayKind": "網上繳費",
+        "LCCont_PayIntv": "12"
+      },
+      "receipt": {
+        "LCCont_ContNo": "8026888888888888",
+        "LCCont_AppntName": "林有福",
+        "LCCont_InsuredName": "林有福",
+        "LCCont_AgentCode": "",
+        "LCCont_AgentCom": "高雄百星人壽保險銷售服務有限公司",
+        "LACom_Subscribemandutyl": "",
+        "LACom_Subscribeman": "2",
+        "AgentCertificate1": "",
+        "AgentCertificate2": "",
+        "AgentCertificate3": "",
+        "ZipCode": "806",
+        "Address": "高雄市前鎮區復興四路10號",
+        "AgentEXName": "張海鷗",
+        "AgentEXCode": "11005501640255718",
+        "AgentName": "11005501640255718",
+        "AgentCode": "",
+        "AgentName1": "",
+        "AgentCode1": "",
+        "BranchAttr": "高雄百星人壽保險銷售服務有限公司",
+        "SysDate": "2019年07月12日",
+        "PrintCode": "0"
+      },
+      "Customerimpart": {
+        "$": {
+          "RowCount": "70",
+          "ColCount": "4"
+        },
+        "HEAD": {
+          "COL1": "告知類型",
+          "COL2": "告知編碼",
+          "COL3": "告知對象",
+          "COL4": "告知內容"
+        },
+        "ROW": [
+          {
+            "COL1": "01",
+            "COL2": "101",
+            "COL3": "0",
+            "COL4": "10,1,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "101",
+            "COL3": "1",
+            "COL4": "10,1,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "102",
+            "COL3": "0",
+            "COL4": "N, , ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "102",
+            "COL3": "1",
+            "COL4": "N, , ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "103",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "103",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "104",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "104",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "105",
+            "COL3": "0",
+            "COL4": "N, ,N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "105",
+            "COL3": "1",
+            "COL4": "N, ,N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "106",
+            "COL3": "0",
+            "COL4": "Y,小型轎車,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "106",
+            "COL3": "1",
+            "COL4": "Y,小型轎車,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "107",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "107",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "108",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "01",
+            "COL2": "108",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "101",
+            "COL3": "0",
+            "COL4": "176,71,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "101",
+            "COL3": "1",
+            "COL4": "176,71,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "102",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "102",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "103",
+            "COL3": "0",
+            "COL4": "N, , ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "103",
+            "COL3": "1",
+            "COL4": "N, , ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "104",
+            "COL3": "0",
+            "COL4": "N, , , ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "104",
+            "COL3": "1",
+            "COL4": "N, , , ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "105",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "105",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "106",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "106",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "107",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "107",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "108",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "108",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "109",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "109",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "110",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "110",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111A",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111A",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111B",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111B",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111C",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111C",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111D",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111D",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111E",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111E",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111F",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111F",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111G",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111G",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111H",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111H",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111I",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111I",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111J",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111J",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111K",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111K",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111L",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111L",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111M",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "111M",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "112",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "112",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "113",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "113",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "115",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "115",
+            "COL3": "1",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "117",
+            "COL3": "0",
+            "COL4": "N, ,"
+          },
+          {
+            "COL1": "02",
+            "COL2": "117",
+            "COL3": "1",
+            "COL4": "N, ,"
+          }
+        ]
+      },
+      "otherCustomerimpart": {
+        "$": {
+          "RowCount": "2",
+          "ColCount": "2"
+        },
+        "HEAD": {
+          "COL1": "告知對象",
+          "COL2": "告知內容"
+        },
+        "ROW": [
+          {
+            "COL1": "投保人",
+            "COL2": "小型轎車"
+          },
+          {
+            "COL1": "被保人",
+            "COL2": "小型轎車"
+          }
+        ]
+      }
+    }
+  }
+}

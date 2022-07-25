@@ -1,0 +1,41 @@
+# Mac
+*/.DS_Store
+
+# Module and build
+node_modules/
+dist/
+
+# NPM
+npm-debug.log*
+
+# Yarn
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# Read me
+README.md
+
+# Dynamic big file
+./public/data
+./public/term
+./public/tiff
+
+# Tool
+./tools
+
+# Editor directories and files
+.idea
+.vscode
+.editorconfig
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

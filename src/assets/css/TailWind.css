@@ -1,0 +1,161 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '../belstar/css/fontSize.css';
+
+@layer components {
+    .A4 {
+      width: 210mm;
+    }
+    .transform222 {
+      @apply translate-x-0 translate-y-0 rotate-0 skew-x-0 skew-y-0 scale-75
+    }
+};
+
+@layer base {
+
+  @font-face {
+    font-family: 'custom';
+    src: url(../fonts/custom.ttf);
+    unicode-range: U+(E000~E22F);
+  }
+  @font-face {
+    font-family: 'kaiu';
+    src: url(../fonts/kaiu.ttf);
+    unicode-range: U+(E000~E22F);
+  }
+  @font-face {
+    font-family: 'simsun';
+    src: url(../fonts/simsun.ttf);
+    unicode-range: U+(E000~E22F);
+  }
+  .font-custom {
+    font-family: 'custom' !important;
+  }
+  .font-kaiu {
+    font-family: 'kaiu' !important;
+  }
+  .font-simsun {
+    font-family: 'simsun' !important;
+  }
+  .text-xs{
+    font-size: 11px !important;
+  }
+  .text-7xl {
+    font-size: 4.5rem;
+  }
+  
+  .h-9{
+    height: 2.25rem;
+  }
+  .h-80{
+    height: 24rem;
+  }
+  
+  .h-96{
+    height: 34rem;
+  }
+  .w-72{
+    width: 18rem;
+  }
+  
+  .w-80{
+    width: 20rem;
+  }
+
+  .border-1{
+    border-width:1.5px;
+  }
+
+  .text-indent-2 {
+    text-indent: 2em;
+  }
+
+  .text-indent-0 {
+    text-indent: 0;
+  }
+
+  .top-60 {
+    top: 62%;
+  }
+
+  .top-85 {
+    top: 85%;
+  }
+
+  .right-16{
+    right:3.75rem;
+  }
+
+  .bottom-4 {
+    bottom: 1rem;
+  }
+
+  .left-40 {
+    left: 38.5%;
+  }
+
+  .left-25 {
+    left: 25%;
+  }
+
+  .leading-26 {
+    line-height: 5.525rem;
+  }
+  
+  .border-11 {
+    border-width: 11px;
+  }
+
+  .border-gray {
+    border: 1px solid rgba(51, 51, 51, 1);
+  }
+  
+  .bor-left {
+    border-left: 1.5px solid rgba(85, 179, 220, 1);
+  }
+  
+  .bor-right {
+    border-right: 1.5px solid rgba(85, 179, 220, 1);
+  }
+
+  .title3 {
+    height: 118.5px;
+    line-height: 118.5px;
+    font-size: 25px;
+  }
+
+  .bracket {
+    border-right: 2px solid rgba(85, 179, 220, 1) !important;
+    border-top: 2px solid rgba(85, 179, 220, 1) !important;
+    width: 10px;
+    height: 10px;
+    transform: rotate(45deg);
+    margin: 9px 10.5px 0 26px;
+  }
+  
+  .position-1{
+    top: 65%;
+    left: 42.5%;
+  }
+  
+  .position-2{
+    top: 78%;
+    left: 34%;
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  span.circle {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1.5px solid rgba(85, 179, 220, 1);
+    border-radius: 50%;
+  }
+  .unbreakable {
+    page-break-inside: avoid
+  }
+}
+
