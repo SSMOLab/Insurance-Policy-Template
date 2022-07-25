@@ -20,7 +20,7 @@
           </div>
           <div class="absolute bottom-4 font-bold text-center w-full">
             <a href="https://www.belstar.com.tw/" target="_blank"
-              >百星人壽保險股份有限公司</a
+              >同源人壽保險股份有限公司</a
             >
           </div>
         </div>
@@ -35,7 +35,7 @@
           <div class=" text-xs">
             <div class="text-2xl text-center pb-3">公司簡介</div>
             <p class="text-sm">
-              高雄百星電子系統有限公司（以下簡稱百星公司）成立於1995年，註冊資金380萬美元，是全外資的高科技企業。
+              高雄同源電子系統有限公司（以下簡稱同源公司）成立於1995年，註冊資金380萬美元，是全外資的高科技企業。
             </p>
             <div class="text-themeTextTitle my-4  text-sm font-bold">定位</div>
             <div>
@@ -107,11 +107,11 @@ import a4Page from "../../../layout/a4Page.vue";
 export default {
   data() {
     return {
-      theme: "blue"
+      theme: "blue",
     };
   },
   components: {
-    a4Page
+    a4Page,
   },
   mounted() {
     if (process.env && process.env.VUE_APP_THEME === "orange") {
@@ -119,7 +119,7 @@ export default {
     } else {
       this.theme = "blue";
     }
-  }
+  },
 };
 </script>
 

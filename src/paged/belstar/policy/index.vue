@@ -84,8 +84,8 @@ export default {
         { name: "電子投保告知書", path: "electronicpolicy" },
         { name: "保險費統一收據", path: "invoice" },
         { name: "保險契約簽收回執", path: "receipt" },
-        { name: "客戶服務指南", path: "instruction" }
-      ]
+        { name: "客戶服務指南", path: "instruction" },
+      ],
     };
   },
   components: {
@@ -103,7 +103,7 @@ export default {
     Main,
     WarmPrompt,
     Term,
-    Paste
+    Paste,
   },
   methods: {
     async getTerm() {
@@ -115,7 +115,7 @@ export default {
           : "termA";
         await this.$axios
           .get(`http://localhost:3000/term/${termName}.json`)
-          .then(res => {
+          .then((res) => {
             term.push(res.data);
             this.termList = term;
           });
@@ -127,7 +127,7 @@ export default {
       const dataName = "belstarA";
       await this.$axios
         .get(`http://localhost:3000/data/${dataName}.json`)
-        .then(res => {
+        .then((res) => {
           this.dataset = res.data.DATASETS.DATASET;
           this.$store.commit("setOrderNumber", this.dataset.Invoice.TempFeeNo);
         });
@@ -144,7 +144,7 @@ export default {
         }
         Paged.registerHandlers(MyHandler);
       }
-    }
+    },
   },
   async mounted() {
     try {
@@ -168,8 +168,6 @@ export default {
         window.isRenderable = true;
       }
     }
-  }
+  },
 };
 </script>
-
-<style scoped></style>

@@ -15,7 +15,7 @@
           </div>
           <div class="text-indent-2">您好！</div>
           <div class="text-indent-2">
-            感謝您選擇百星人壽保險股份有限公司為您服務!
+            感謝您選擇同源人壽保險股份有限公司為您服務!
           </div>
           <div class="text-indent-2">
             根據您的申請，我公司已簽發{{
@@ -57,15 +57,15 @@
             <div>管理機構名稱：{{ dataset.Cont.ManageComName }}</div>
           </div>
           <div class="font-bold py-8">
-            <div>百星保險全國客戶服務電話 400-510-5058</div>
-            <div>公司網址:www. belstar.com</div>
+            <div>同源保險全國客戶服務電話 400-510-5058</div>
+            <div>公司網址:www.ssmolab.com</div>
             <div>公司地址:806高雄市前鎮區民權二路6號</div>
           </div>
         </div>
         <div class="bg-themeBackgroundInfo py-5 px-8 mt-8">
           <div>本人在此簽名確認以示對投保單和保單全部內容之理解和認可：</div>
           <div>
-            本人已收到百星人壽{{ dataset.Cont.LCCont_ContNo }}號保險契約<span
+            本人已收到同源人壽{{ dataset.Cont.LCCont_ContNo }}號保險契約<span
               class="font-bold font-custom"
               >（投保人：{{ dataset.Cont.LCCont_RenewalAccName }}，被保險人：{{
                 dataset.Cont.LCCont_AppntName
@@ -100,16 +100,16 @@ import a4Page from "../../../layout/a4Page.vue";
 
 export default {
   props: {
-    dataset: Object
+    dataset: Object,
   },
   data() {
     return {
-      isPage: true
+      isPage: true,
     };
   },
   components: {
-    a4Page
-  }
+    a4Page,
+  },
 };
 </script>
 <style lang="postcss" scoped>

@@ -8,14 +8,14 @@ const themeList = {
       gradient2: "#91C3FD",
       gradient3: "#61A6FA",
       gradient4: "#3C83F6",
-      gradient5: "#1D4FD7"
+      gradient5: "#1D4FD7",
     },
     border: "#90cdf4",
     text: {
       title: "#1D4FD7",
       sidebar: "#FFFFFF",
-      hover: "#1D4FD7"
-    }
+      hover: "#1D4FD7",
+    },
   },
   orange: {
     background: {
@@ -26,15 +26,15 @@ const themeList = {
       gradient2: "#FCD44F",
       gradient3: "#FBBD23",
       gradient4: "#F59F0A",
-      gradient5: "#DB7706"
+      gradient5: "#DB7706",
     },
     border: "#fbd38d",
     text: {
       title: "#F59F0A",
       sidebar: "#FFFFFF",
-      hover: "#F59F0A"
-    }
-  }
+      hover: "#F59F0A",
+    },
+  },
 };
 let theme;
 
@@ -44,17 +44,18 @@ if (process.env.VUE_APP_THEME === "orange") {
   theme = "blue";
 }
 module.exports = {
+  mode: "jit",
   future: {
     // removeDeprecatedGapUtilities: true,
     // purgeLayersByDefault: true,
   },
-  purge: [],
+  purge: ["./public/**/*.html", "./src/**/*.{js,jsx,ts,tsx,vue}"],
   theme: {
     screens: {
       sm: "640px",
       md: "768px",
       lg: "1024px",
-      xl: "1280px"
+      xl: "1280px",
     },
     extend: {
       colors: {
@@ -69,10 +70,10 @@ module.exports = {
         themeBorder: themeList[theme].border,
         themeTextTitle: themeList[theme].text.title,
         themeTextSidebar: themeList[theme].text.sidebar,
-        themeTextHover: themeList[theme].text.hover
-      }
-    }
+        themeTextHover: themeList[theme].text.hover,
+      },
+    },
   },
   variants: {},
-  plugins: []
+  plugins: [],
 };

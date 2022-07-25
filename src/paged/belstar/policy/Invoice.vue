@@ -4,7 +4,7 @@
     <template slot="content">
       <div class="bg-themeBackgroundMain w-full text-center py-20 ">
         <img
-          src="../../../assets/belstar/img/logo.png"
+          src="../../../assets/belstar/img/SSMOLab-RGB.png"
           style="width:175px;"
           class="inline-block"
         />
@@ -43,7 +43,7 @@ import InvoiceReceipt from "@/components/belstar/policy/InvoiceReceipt.vue";
 export default {
   data() {
     return {
-      isPage: true
+      isPage: true,
     };
   },
   components: {
@@ -51,12 +51,12 @@ export default {
     //收據表格組件
     InvoiceTable,
     //收據回執樣式組件
-    InvoiceReceipt
+    InvoiceReceipt,
   },
 
   props: {
-    dataset: Object
-  }
+    dataset: Object,
+  },
 };
 </script>
 

@@ -13,23 +13,23 @@
         "PRINTER": "",
         "DISPLAY": ""
       },
-      "CONVER": { 
+      "CONVER": {
         "LCGrpCont_GrpContNo": "8026888888888888",
         "LCGrpCont_GrpName": "小明",
         "LCCont_InsuredName": "王旺福",
-        "LCCont_ComName": "百星人壽保險股份有限公司高雄分公司",
+        "LCCont_ComName": "同源人壽保險股份有限公司高雄分公司",
         "LCCont_ComAddress": "806高雄市前鎮區民權二路6號",
         "LCCont_SignDate": "2019年07月12日",
         "LCCont_PrintCount": "1"
       },
-      "term":[
+      "term": [
         {
-          "code":"termB"
+          "code": "termB"
         },
         {
-          "code":"termA"
+          "code": "termA"
         }
-       ],
+      ],
       "Cont": {
         "Type": "7",
         "SellType": "74",
@@ -100,7 +100,7 @@
         "LCCont_SocialInsuFlag": "是",
         "LCCont_InsuredAppAge": "55",
         "LCCont_InsuredPluralitytype": "無",
-        "RiskName": "百星人壽孝順保惡性腫瘤疾病保險",
+        "RiskName": "同源人壽孝順保惡性腫瘤疾病保險",
         "InsureCMoney": "壹拾伍萬元整",
         "CPrem": "伍仟捌佰壹拾捌元整",
         "LCCont_Prem": "5818",
@@ -117,7 +117,7 @@
         "InsureTerm": "終身",
         "LCCont_Remark": "",
         "LCCont_polRemark": "",
-        "ManageComName": "百星人壽保險股份有限公司高雄分公司高雄本部營銷服務部",
+        "ManageComName": "同源人壽保險股份有限公司高雄分公司高雄本部營銷服務部",
         "ManageComCode": "80010101",
         "NeedHospital": "0",
         "LCCont_SignDate": "2019年07月12日",
@@ -131,9 +131,9 @@
         "LAAgent_AgentCode1": "",
         "LAAgent_Name1": "",
         "LAAgent_AgentNBlevel2": "",
-        "LABranchGroup_Name": "高雄百星人壽保險銷售服務有限公司",
+        "LABranchGroup_Name": "高雄同源人壽保險銷售服務有限公司",
         "LCCont_AgentCom": "71405501",
-        "LCCont_AgentComName": "高雄百星人壽保險銷售服務有限公司",
+        "LCCont_AgentComName": "高雄同源人壽保險銷售服務有限公司",
         "ManageComAddress": "",
         "ServicePhone": "400-610-5058",
         "AddMoney": "",
@@ -249,7 +249,7 @@
           "COL17": "被保人客戶號"
         },
         "ROW": {
-          "COL1": "百星人壽孝順保惡性腫瘤疾病保險",
+          "COL1": "同源人壽孝順保惡性腫瘤疾病保險",
           "COL2": "150000.00元",
           "COL3": "5818",
           "COL4": "終身",
@@ -287,7 +287,7 @@
         },
         "HEAD": {
           "COL1": "8026000127308888",
-          "COL2": "百星人壽孝順保惡性腫瘤疾病保險",
+          "COL2": "同源人壽孝順保惡性腫瘤疾病保險",
           "COL3": "150000.00",
           "COL4": "20年",
           "COL5": "ADDU",
@@ -618,7 +618,7 @@
         },
         "ROW": {
           "COL1": "belstar-001",
-          "COL2": "百星人壽孝順保惡性腫瘤疾病保險"
+          "COL2": "同源人壽孝順保惡性腫瘤疾病保險"
         }
       },
       "URL": {
@@ -666,7 +666,7 @@
         "LAAgent_mobile": "15025143010",
         "LAAgent_AgentCode1": "",
         "LAAgent_Name1": "",
-        "LABranchGroup_Name": "高雄百星人壽保險銷售服務有限公司",
+        "LABranchGroup_Name": "高雄同源人壽保險銷售服務有限公司",
         "LCCont_PayKind": "網上繳費",
         "LCCont_PayIntv": "12"
       },
@@ -675,7 +675,7 @@
         "LCCont_AppntName": "林有福",
         "LCCont_InsuredName": "林有福",
         "LCCont_AgentCode": "",
-        "LCCont_AgentCom": "高雄百星人壽保險銷售服務有限公司",
+        "LCCont_AgentCom": "高雄同源人壽保險銷售服務有限公司",
         "LACom_Subscribemandutyl": "",
         "LACom_Subscribeman": "2",
         "AgentCertificate1": "",
@@ -689,7 +689,7 @@
         "AgentCode": "",
         "AgentName1": "",
         "AgentCode1": "",
-        "BranchAttr": "高雄百星人壽保險銷售服務有限公司",
+        "BranchAttr": "高雄同源人壽保險銷售服務有限公司",
         "SysDate": "2019年07月12日",
         "PrintCode": "0"
       },

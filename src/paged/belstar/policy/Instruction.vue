@@ -11,20 +11,20 @@
             <div class="pb-2 text-indent-0">尊敬的客戶：</div>
             <p>您好！</p>
             <p>
-              衷心地感謝您對百星人壽保險股份有限公司的支持與信任！為了確保您持有保險契約的準確性和有效性，更好地保障您的合法權益，我們為您提供了如下服務指南，希望可以幫助您快捷辦理各項業務。
+              衷心地感謝您對同源人壽保險股份有限公司的支持與信任！為了確保您持有保險契約的準確性和有效性，更好地保障您的合法權益，我們為您提供了如下服務指南，希望可以幫助您快捷辦理各項業務。
             </p>
           </div>
           <ul class="pt-5 font-bold text-sm w-full m-auto text-justify">
             <li class="text-base mb-5">
               一、保全服務：
               <div class="text-xs text-indent-2 leading-5">
-                投保人變更、受益人變更、地址變更、轉賬賬號變更、年齡變更、紅利領取方式變更、減額繳清、契約解除、附加險增加或解除、保險單掛失及補發、契約效力恢復、保險單貸款、生存給付等，如您需辦理上述事項，請您攜帶保險契約正本、申請人身份證明及其它相關材料到您所在城市的百星人壽保險股份有限公司客戶服務中心辦理。具體可申請的保全服務，以所投保條款為準。
+                投保人變更、受益人變更、地址變更、轉賬賬號變更、年齡變更、紅利領取方式變更、減額繳清、契約解除、附加險增加或解除、保險單掛失及補發、契約效力恢復、保險單貸款、生存給付等，如您需辦理上述事項，請您攜帶保險契約正本、申請人身份證明及其它相關材料到您所在城市的同源人壽保險股份有限公司客戶服務中心辦理。具體可申請的保全服務，以所投保條款為準。
               </div>
             </li>
             <li class="text-base mb-5">
               二、咨詢投訴服務：
               <div class="text-xs text-indent-2 leading-5">
-                提供保險產品、保險單狀態、續期收費、理賠等方面的咨詢服務，亦接受您對公司及業務員服務的投訴，我們非常歡迎您撥打全國統一客戶服務和客戶維權電話63436699提出對百星人壽產品和服務的意見或建議。
+                提供保險產品、保險單狀態、續期收費、理賠等方面的咨詢服務，亦接受您對公司及業務員服務的投訴，我們非常歡迎您撥打全國統一客戶服務和客戶維權電話63436699提出對同源人壽產品和服務的意見或建議。
               </div>
             </li>
             <li class="text-base mb-5">
@@ -50,7 +50,7 @@
               </div>
               <div class="text-xs text-indent-2 leading-5">
                 2.
-                若被保險人發生保險事故，請在進行積極搶救和治療的同時，不要忘記通過百星保險全國統一客戶服務和客戶維權電話63436699，及時向保險公司報案，我們將在第一時間為您提供服務，避免您因為報案延遲導致不必要的經濟損失。您還可以通過登陸公司官方網站或親臨客戶服務中心等方式進行報案。您也可以委託保單服務人員為您服務。
+                若被保險人發生保險事故，請在進行積極搶救和治療的同時，不要忘記通過同源保險全國統一客戶服務和客戶維權電話63436699，及時向保險公司報案，我們將在第一時間為您提供服務，避免您因為報案延遲導致不必要的經濟損失。您還可以通過登陸公司官方網站或親臨客戶服務中心等方式進行報案。您也可以委託保單服務人員為您服務。
               </div>
               <div class="text-xs text-indent-2 leading-5">
                 3.
@@ -58,7 +58,7 @@
               </div>
             </li>
             <li class="text-base mb-5">
-              五、百星人壽保險全國統一客戶服務和客戶維權電話
+              五、同源人壽保險全國統一客戶服務和客戶維權電話
               <div class="text-xs text-indent-2 leading-5">
                 如果您對於我公司的保險產品和服務有問題需要咨詢，請撥打我們的全國統一客戶服務和客戶維權電話63436699，我們將竭誠為您提供專業的服務。
               </div>
@@ -78,11 +78,11 @@
               class="inline-block w-20 h-20"
             ></a>
             <br />
-            <span>下載E動百星</span><br /><span>查保單&nbsp; 享健康服務</span>
+            <span>下載E動同源</span><br /><span>查保單&nbsp; 享健康服務</span>
           </div>
           <div class="text-center font-bold position-2 absolute">
-            百星人壽保險股份有限公司
-            <p class="text-xs">BELSTAR LIFE INSURANCE CO.,LTD.</p>
+            同源人壽保險股份有限公司
+            <p class="text-xs">SSMO LIFE INSURANCE CO.,LTD.</p>
           </div>
           <div class="top-85 left-25 absolute text-xs">
             <span>郵遞區號: 806</span> <span class="inline-block w-6"></span
@@ -97,7 +97,7 @@
                 href="https://www.belstar.com.tw/"
                 target="_blank"
                 style="line-height: 10px;"
-                >www.belstar.com.tw</a
+                >www.ssmolab.com</a
               ></span
             >
             <img
@@ -118,11 +118,11 @@ import a4Page from "../../../layout/a4Page.vue";
 export default {
   data() {
     return {
-      theme: "blue"
+      theme: "blue",
     };
   },
   components: {
-    a4Page
+    a4Page,
   },
   mounted() {
     if (process.env && process.env.VUE_APP_THEME === "orange") {
@@ -130,7 +130,7 @@ export default {
     } else {
       this.theme = "blue";
     }
-  }
+  },
 };
 </script>
 

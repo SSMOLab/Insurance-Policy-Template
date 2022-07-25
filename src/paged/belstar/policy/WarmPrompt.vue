@@ -16,7 +16,7 @@
         ></div>
         <div class="mt-16 ml-12 text-xs text-justify mr-5">
           <p class="font-custom">尊敬的王旺福先生:</p>
-          <p class="mt-6">感謝您選擇百星人壽為您提供服務!</p>
+          <p class="mt-6">感謝您選擇同源人壽為您提供服務!</p>
           <p>
             您的權利和義務已在本契約中載明，請您仔細閱讀。為了維護您的權益，我們還特別提醒您注意以下事項:
           </p>
@@ -46,7 +46,7 @@
           </p>
         </div>
         <div class="text-xs mt-32 mr-12 text-right">
-          百星人壽保險股份有限公司
+          同源人壽保險股份有限公司
         </div>
       </div>
     </template>
@@ -58,15 +58,15 @@ import a4Page from "../../../layout/a4Page.vue";
 export default {
   data() {
     return {
-      isPage: true
+      isPage: true,
     };
   },
   props: {
-    dataset: Object
+    dataset: Object,
   },
   components: {
-    a4Page
-  }
+    a4Page,
+  },
 };
 </script>
 
