@@ -25,4 +25,4 @@ npm run serve
 ```
 
 ## License
-Credit-Card-Billing-Template is free software and GPLv3 licensed. See the LICENSE file for details.
+Insurance-Policy-Template is free software and GPLv3 licensed. See the LICENSE file for details.
