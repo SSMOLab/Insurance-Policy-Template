@@ -13,13 +13,16 @@
 
 ## 啟動專案
 
-### 執行後端服務
+### 後端服務
 
 動態資料與圖檔皆存放於 `app/publc/` 內，需先切換目錄至 `app/` 後以 `npm run start` 執行後端服務才可取得。
 
-### 執行前端專案
+### 執行前端
 
 ```
 npm install
 npm run serve
 ```
+
+## License
+Credit-Card-Billing-Template is free software and GPLv3 licensed. See the LICENSE file for details.
