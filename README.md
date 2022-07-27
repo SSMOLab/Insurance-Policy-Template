@@ -4,7 +4,7 @@
 
 [線上展示Demo](https://ssmolab.github.io/Insurance-Policy-Template/)
 
-![image](https://github.com/SSMOLab-Joshua/Insurance-Policy-Template/blob/main/document/img/doc-cover-img.png)
+![image](https://github.com/SSMOLab/Insurance-Policy-Template/blob/main/document/img/doc-cover-img.png)
 
 ## 技術規範
 
